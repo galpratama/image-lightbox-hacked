@@ -108,12 +108,10 @@
 /* Left edge button. */
 .thumbelina-but.horiz.left {
     left:-22px;
-    border-radius: 5px 0px 0px 5px;
 }
 /* Right edge button */
 .thumbelina-but.horiz.right {
     right:-22px;
-    border-radius: 0px 5px 5px 0px;
 }
 
 /* Vertical buttons. */  
@@ -127,11 +125,9 @@
 /* Top edge button. */
 .thumbelina-but.vert.top {
     top:-22px;
-    border-radius: 5px 5px 0px 0px;
 }
 
 /* Bottom edge button. */
 .thumbelina-but.vert.bottom {
     bottom:-22px;
-    border-radius: 0px 0px 5px 5px;
 }
